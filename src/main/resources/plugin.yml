@@ -1,0 +1,4 @@
+name: ChunkPacketWrapper
+version: '${project.version}'
+main: me.fredthedoggy.chunkpacketwrapper.ChunkPacketWrapper
+api-version: 1.16
